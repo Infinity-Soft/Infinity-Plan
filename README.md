@@ -1,1 +1,3 @@
-# Infinity-Plan
+# Infinity Plan
+
+현재 기획중인 모든 프로젝트를 기록하는 레포스트리지 입니다.
